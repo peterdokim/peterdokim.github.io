@@ -1,5 +1,14 @@
 # Hello. I am Do heon Kim
 # This is my initial work here on my own Github pages. I will be inclined to work more on my pages **soon**.
+<div class="navbar">
+  <a href="#home">Home</a>
+  <a href="#news">News</a>
+  <a href="#contact">Contact</a>
+</div>
+
+<div class="main">
+  <p>Some text some text some text some text..</p>
+</div>
 ## Let's learn about how to install VSCODE!
 
 ### TOPIC : Remote Access
