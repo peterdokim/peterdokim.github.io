@@ -7,7 +7,7 @@
 </div>
 
 <div class="main">
-  <p>Some text some text some text some text..</p>
+  <p>WOAH</p>
 </div>
 ## Let's learn about how to install VSCODE!
 
