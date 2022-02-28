@@ -1,5 +1,7 @@
-<h1>Hello. I am Do heon Kim</h1>
-<h2>This is my initial work here on my own Github pages. I will be inclined to work more on my pages <br>soon</br></h2>.
+# Hello. I am Do heon Kim</h1>
+## This is my initial work here on my own Github pages. I will be inclined to work more on my pages **soon**.
+[About me](https://stopdatkimmy.github.io/aboutme/)
+[CSE 15L lab report 1](https://stopdatkimmy.github.io/cse15l-lab-reports/lab-report-3-week-6)
 <div class="navbar">
   <a href="#home">Home</a>
   <a href="#news">News</a>
@@ -7,9 +9,9 @@
 </div>
 
 <div class="main">
-  <p>WOAH</p>
+  
 </div>
-<h2>Let's learn about how to install VSCODE!</h2>
+## Let's learn about how to install VSCODE!
 
 ### TOPIC : Remote Access
 
