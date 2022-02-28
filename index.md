@@ -1,16 +1,8 @@
 # Hello. I am Do heon Kim</h1>
 ## This is my initial work here on my own Github pages. I will be inclined to work more on my pages **soon**.
-[About me](https://stopdatkimmy.github.io/aboutme/)
-[CSE 15L lab report 1](https://stopdatkimmy.github.io/cse15l-lab-reports/lab-report-3-week-6)
-<div class="navbar">
-  <a href="#home">Home</a>
-  <a href="#news">News</a>
-  <a href="#contact">Contact</a>
-</div>
+[About me](https://stopdatkimmy.github.io/aboutme/)<br>
+[CSE 15L lab report 1](https://stopdatkimmy.github.io/cse15l-lab-reports/lab-report-3-week-6)<br>
 
-<div class="main">
-  
-</div>
 ## Let's learn about how to install VSCODE!
 
 ### TOPIC : Remote Access
