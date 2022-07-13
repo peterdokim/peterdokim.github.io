@@ -30,8 +30,12 @@ In my powerpoint, I had several outlines about the project.
 
 ### Step 2. Converting the jupyter file into python file, and making a tutorial GUI without any features.
 
+[stackoverflow](https://stackoverflow.com/questions/37797709/convert-json-ipython-notebook-ipynb-to-py-file#:~:text=From%20the%20notebook%20menu%20you,py'%20option.)This stackoverflow page came in handy.
+Command that were used was 
+![Screenshot from 2022-07-13 17-10-08](https://user-images.githubusercontent.com/61016872/178684328-729700e9-2312-45d5-aecc-02895db97c07.png)
 
 ### Step 3. Implementing Actual GUI with PYQT5
+
 
 #### substep 1. Making a MainWindow
 
