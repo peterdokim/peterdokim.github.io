@@ -2,6 +2,8 @@
 
 ## Recorded as I always tend to forget how I do my projects
 
+## Project Outline
+a. 
 
 ### Step 1. Understanding what the Project is about and making a powerpoint presentation 
 
@@ -27,6 +29,13 @@ In my powerpoint, I had several outlines about the project.
 
 
 ### Step 2. Converting the jupyter file into python file, and making a tutorial GUI without any features.
+
+
+### Step 3. Implementing Actual GUI with PYQT5
+
+#### substep 1. Making a MainWindow
+
+#### substep 2. Making a graph plotter from the MainWindow
 
 
 
