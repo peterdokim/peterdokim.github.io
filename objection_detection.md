@@ -66,4 +66,8 @@ Example of the graph plotting was quite hard, and I implemented material from so
 ![Screenshot from 2022-07-13 17-41-16](https://user-images.githubusercontent.com/61016872/178690412-11761c00-9647-4cec-adaf-b5efcffb7790.png)
 What it looks like for different plots in the end.
 
+### 아키텍쳐 구현 및 요구사항 분석
+
+
+
 
