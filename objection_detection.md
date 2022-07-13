@@ -1,9 +1,8 @@
 # Objection_detection_tool_GUI
 
-## Recorded as I always tend to forget how I do my projects
 
 ## Project Outline
-a. 
+
 
 ### Step 1. Understanding what the Project is about and making a powerpoint presentation 
 
