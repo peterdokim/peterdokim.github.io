@@ -1,4 +1,4 @@
-# First week of my project starting from today
+# Objection_detection_tool_GUI
 
 ## Recorded as I always tend to forget how I do my projects
 
