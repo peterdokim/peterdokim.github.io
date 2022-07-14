@@ -1,4 +1,4 @@
-# Objection_detection_tool_GUI
+# Object_detection_tool_GUI
 
 
 ## Project Outline
