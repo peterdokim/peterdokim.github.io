@@ -68,6 +68,14 @@ What it looks like for different plots in the end.
 
 ### 아키텍쳐 구현 및 요구사항 분석
 
+#### 아키텍쳐
+![Screenshot from 2022-07-14 09-33-25](https://user-images.githubusercontent.com/61016872/178860730-891733f2-ff4c-4bf1-ad9b-a76d7dea2931.png)
+
+#### 요구사항 분석
+![Screenshot from 2022-07-14 09-43-00](https://user-images.githubusercontent.com/61016872/178860790-c5957ca0-48a8-4d3a-b187-9867670ca310.png)
+
+
+
 
 
 
