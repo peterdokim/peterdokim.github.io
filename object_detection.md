@@ -7,8 +7,9 @@
 ### Step 1. Understanding what the Project is about and making a powerpoint presentation 
 
 Understanding the project took me some time as I was not really sure what I was doing from the start.
-I knew that my learning came from making a GUI but what is it about GUI that I will be making? was really what I have been trying to ask
-myself and my mentor for some time.
+I knew that my learning came from making a GUI but what is it about GUI that I will be making was confusing. In 5 days I was assigned to create a powerpoint on my intial project proposal, which I had no knowledge about.
+
+I spent several days literally just googling object_detection_tool on github, stackoverflow and such. With much effort, I was able to discover nothing, which was surely an achievement for an Intern.
 
 #### I initially made this powerpoint.
 
@@ -72,6 +73,17 @@ What it looks like for different plots in the end.
 
 #### 요구사항 분석
 ![Screenshot from 2022-07-14 09-43-00](https://user-images.githubusercontent.com/61016872/178860790-c5957ca0-48a8-4d3a-b187-9867670ca310.png)
+
+I learned soon that my GUI was a failure. It lacked design structures, compatibility and extensibility. I needed to revisit what I had previously sought and improvise upon my understanding of my poor design ettiques. I quickly scanned through what my mentors gave me on software architecture and interface planning, requirement analysis.
+I had to start my GUI all over again, and connecting the initial underlying code to the GUI for the GUI to plot the graphs.
+
+Initiating python main.py would make this graph come out.
+
+![Screenshot from 2022-07-28 16-00-42](https://user-images.githubusercontent.com/61016872/182328142-37437f2a-75cb-4f0d-8d02-713af0d466a7.png)
+
+It has add, remove button for different files of ground_truth, target files. It also has different kind of graph generator.
+Changing the graph 
+
 
 
 
