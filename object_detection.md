@@ -83,9 +83,15 @@ Initiating python main.py would make this graph come out.
 
 It has add, remove button for different files of ground_truth, target files. It also has different kind of graph generator.
 
-Way to get this GUI working. <br />```pip install conda```
+Way to get this GUI working. <br />```pip install conda``` to install conda dependencies. 
+[conda linux 설치 방법 및 dependency](https://dambi-ml.tistory.com/6)
+
+이 과정을 통해 conda 설치 후 conda 가상환경에 들어가서 python main.py실행. 실행 하면 
 
 
+
+![Screenshot from 2022-08-03 10-39-26](https://user-images.githubusercontent.com/61016872/182538731-94065ead-feac-480a-a89c-17363e905e65.png)
+이런 류의 창이 뜸. 창이 뜨면 타겟 파일, 그라운드 트루스 파일 각각 지정 후 convert라는 버튼 누름. 그럼 vscode안에서 코드가 돌면서 여러 변수들이 저장됨. 그걸 통해 원하는 그래프를 클릭 후, save 버튼을 누르면 다이렉터리 지정하라고 뜸. 지정 하면 끝
 
 
 
