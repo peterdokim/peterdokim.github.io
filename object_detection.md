@@ -83,7 +83,7 @@ Initiating python main.py would make this graph come out.
 
 It has add, remove button for different files of ground_truth, target files. It also has different kind of graph generator.
 
-Way to get this GUI working. ```pip install conda```
+Way to get this GUI working. <br />```pip install conda```
 
 
 
