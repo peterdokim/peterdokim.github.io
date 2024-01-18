@@ -1,5 +1,3 @@
-# Hello. I am Do heon Kim</h1>
-## This is my initial work here on my own Github pages. I will be inclined to work more on my pages **soon**.
 [About me](https://stopdatkimmy.github.io/aboutme/)<br>
 [CSE 15L lab report 1](https://stopdatkimmy.github.io/cse15l-lab-reports/lab-report-3-week-6)<br>
 
@@ -128,7 +126,3 @@ By trying some of these commands we know that the commands could be run from you
 
 
 ![remote command operations](https://user-images.githubusercontent.com/61016872/149596794-c1ab5eaf-e82b-4d3a-8547-9f5fbd2fdd69.png)
-
-
-
-

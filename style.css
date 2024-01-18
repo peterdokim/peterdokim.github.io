@@ -1,0 +1,33 @@
+/* Resets list styles */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333; /* Change background color as needed */
+}
+
+/* Style for list items */
+li {
+    float: left;
+}
+
+/* Style for navigation links */
+li a {
+    display: block;
+    color: white; /* Change text color as needed */
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color on hover */
+li a:hover {
+    background-color: #ffffff; /* Change hover color as needed */
+}
+
+img {
+    width : 200px;
+    height : auto;
+    margin : auto;
+}
